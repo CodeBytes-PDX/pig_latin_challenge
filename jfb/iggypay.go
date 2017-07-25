@@ -63,6 +63,6 @@ func main() {
 	words_out[i] = word_out
     }
 
-fmt.Println(s.Join(words_out, " "))
+    fmt.Println(s.Join(words_out, " "))
 
 }
